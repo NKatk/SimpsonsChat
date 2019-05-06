@@ -24,3 +24,5 @@ Recommend open new terminal(cmd) and in directory SimpsonsChat enter command:
 	>>>npm start;
 
 Enjoy:) and crash or use;)
+
+
