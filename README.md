@@ -4,6 +4,7 @@ and CSS, instead of data base i'm used json files.
 
 How to use:
 >>>git clone https://github.com/NKatk/SimpsonsChat.git;
+
 >>>cd SimpsonsChat;
 after need install dependencies in dirictories frontend and backend:
 	>>>cd backend;
