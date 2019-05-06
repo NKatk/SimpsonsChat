@@ -1,0 +1,97 @@
+.chat{
+    position: relative;
+    overflow: auto;
+    max-height: 420px;
+}
+
+.message{
+    display: flex;
+    min-height: 120px;
+    position: relative;
+    margin: 5px;
+}
+
+.personMessage{
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    bottom: 0;
+}
+
+.icoMessage{
+    width: 50px;
+}
+.namePerson{
+    margin: 0;
+    font-family: cursive;
+}
+
+.bodyMessage{
+    display: block;
+    max-width: 70%;
+}
+
+.textMessage{
+    display: inline;
+    float: left;
+    border-radius: 20px 20px 20px 0;
+    text-align: left;
+    margin-left: 80px;
+    padding: 10px;
+    border: 1px solid #000;
+    font-family: Cursive;
+}
+
+.timeMessage{
+    display: inline-block;
+    float: left;
+    margin-left: 100px;
+    max-width: 100px;
+    margin-bottom: 30px;
+    font-style: italic;
+    font-size: 0.8em;
+    color: #3c3c3c;
+}
+
+
+
+
+.personMessageMe{
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    bottom: 0;
+    right:0;
+}
+
+
+.bodyMessageMe{
+    position: relative;
+    margin-left: auto;
+    margin-right: 0;
+    max-width: 70%;
+}
+
+.textMessageMe{
+    display: inline;
+    float: right;
+    border-radius: 20px 20px 0 20px;
+    text-align: left;
+    margin-right: 80px;
+    padding: 10px;
+    border: 1px solid #000;
+    font-family: Cursive;
+}
+
+.timeMessageMe{
+    display: inline;
+    float: right;
+    margin-right: 100px;
+    max-width: 100px;
+    margin-bottom: 30px;
+    font-style: italic;
+    font-size: 0.8em;
+    color: #3c3c3c;
+}
+
+

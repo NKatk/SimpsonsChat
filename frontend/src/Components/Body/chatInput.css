@@ -1,0 +1,97 @@
+.formSend{
+    position: relative;
+    height: 100px;
+}
+
+.formCont{
+    display: inline-block;
+    margin-top: 12px;
+    width: 75%;
+    height: 75px;
+
+}
+
+.inputImg{
+    position: absolute;
+    width: 60px;
+    top: 20%;
+}
+
+.btnGif{
+    position: absolute;
+    left: 13%;
+    font-size: 0.5em;
+    top: 20%;
+}
+
+.btnGif:hover{
+    cursor: pointer;
+    color: sandybrown;
+}
+
+.gif{
+    position: absolute;
+    width: 56%;
+    left: 22%;
+    overflow: auto;
+    max-height: 150px;
+}
+
+.gifImg{
+    margin: 1%;
+    height: 75px;
+}
+
+.inputTextarea{
+    position: absolute;
+    resize: none;
+    width: 56%;
+    height: 75px;
+    left: 22%;
+}
+
+.buttonInput{
+    position: absolute;
+    right: 13%;
+    width: 75px;
+    height: 75px;
+}
+
+.textBtn{
+    position: absolute;
+    font-size: 4em;
+    margin-top: -20px;
+    margin-left: -35px;
+    padding: 0 15px;
+    color: #ffc107;
+}
+
+
+.textBtn:hover{
+    color: #ffef28;
+    cursor: pointer
+}
+
+.textBtn:active{
+    color: greenyellow;
+    cursor: pointer;
+}
+
+.textBtnFalse{
+    position: absolute;
+    font-size: 4em;
+    margin-top: -20px;
+    margin-left: -35px;
+    padding: 0 15px;
+    color: #cccccc;
+}
+
+.textBtnFalse:hover{
+    cursor: default;
+}
+
+.textBtnFalse:active{
+    cursor: default;
+}
+
+
