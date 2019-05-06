@@ -1,6 +1,6 @@
 # SimpsonsChat
 In this project used Reactwithout Redux, Node.js(Express), JWT Authentication,  Socket.io, Bootstrap4
-and CSS, instead of data base i`m used json files.
+and CSS, instead of data base i'm used json files.
 
 How to use:
 >>>git clone https://github.com/NKatk/SimpsonsChat.git;
